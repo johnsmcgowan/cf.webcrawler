@@ -1,0 +1,10 @@
+C:\Users\jxm146\Documents\visual studio 2015\Projects\john.mcgowan.cf.webcrawler\john.mcgowan.cf.webcrawler.bo\bin\Debug\john.mcgowan.cf.webcrawler.bo.dll
+C:\Users\jxm146\Documents\visual studio 2015\Projects\john.mcgowan.cf.webcrawler\john.mcgowan.cf.webcrawler.bo\bin\Debug\john.mcgowan.cf.webcrawler.bo.pdb
+C:\Users\jxm146\Documents\visual studio 2015\Projects\john.mcgowan.cf.webcrawler\john.mcgowan.cf.webcrawler.bo\bin\Debug\log4net.dll
+C:\Users\jxm146\Documents\visual studio 2015\Projects\john.mcgowan.cf.webcrawler\john.mcgowan.cf.webcrawler.bo\bin\Debug\log4net.xml
+C:\Users\jxm146\Documents\visual studio 2015\Projects\john.mcgowan.cf.webcrawler\john.mcgowan.cf.webcrawler.bo\obj\Debug\john.mcgowan.cf.webcrawler.bo.csprojResolveAssemblyReference.cache
+C:\Users\jxm146\Documents\visual studio 2015\Projects\john.mcgowan.cf.webcrawler\john.mcgowan.cf.webcrawler.bo\obj\Debug\john.mcgowan.cf.webcrawler.bo.dll
+C:\Users\jxm146\Documents\visual studio 2015\Projects\john.mcgowan.cf.webcrawler\john.mcgowan.cf.webcrawler.bo\obj\Debug\john.mcgowan.cf.webcrawler.bo.pdb
+C:\Users\jxm146\Documents\visual studio 2015\Projects\john.mcgowan.cf.webcrawler\john.mcgowan.cf.webcrawler.bo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\jxm146\Documents\visual studio 2015\Projects\john.mcgowan.cf.webcrawler\john.mcgowan.cf.webcrawler.bo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\jxm146\Documents\visual studio 2015\Projects\john.mcgowan.cf.webcrawler\john.mcgowan.cf.webcrawler.bo\bin\Debug\HtmlAgilityPack.xml

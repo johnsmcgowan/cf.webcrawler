@@ -1,0 +1,13 @@
+C:\Users\jxm146\Documents\visual studio 2015\Projects\john.mcgowan.cf.webcrawler\john.mcgowan.cf.webcrawler.program\bin\Debug\john.mcgowan.cf.webcrawler.program.exe.config
+C:\Users\jxm146\Documents\visual studio 2015\Projects\john.mcgowan.cf.webcrawler\john.mcgowan.cf.webcrawler.program\bin\Debug\john.mcgowan.cf.webcrawler.program.exe
+C:\Users\jxm146\Documents\visual studio 2015\Projects\john.mcgowan.cf.webcrawler\john.mcgowan.cf.webcrawler.program\bin\Debug\john.mcgowan.cf.webcrawler.program.pdb
+C:\Users\jxm146\Documents\visual studio 2015\Projects\john.mcgowan.cf.webcrawler\john.mcgowan.cf.webcrawler.program\bin\Debug\log4net.dll
+C:\Users\jxm146\Documents\visual studio 2015\Projects\john.mcgowan.cf.webcrawler\john.mcgowan.cf.webcrawler.program\bin\Debug\log4net.xml
+C:\Users\jxm146\Documents\visual studio 2015\Projects\john.mcgowan.cf.webcrawler\john.mcgowan.cf.webcrawler.program\obj\Debug\john.mcgowan.cf.webcrawler.program.csprojResolveAssemblyReference.cache
+C:\Users\jxm146\Documents\visual studio 2015\Projects\john.mcgowan.cf.webcrawler\john.mcgowan.cf.webcrawler.program\obj\Debug\john.mcgowan.cf.webcrawler.program.exe
+C:\Users\jxm146\Documents\visual studio 2015\Projects\john.mcgowan.cf.webcrawler\john.mcgowan.cf.webcrawler.program\obj\Debug\john.mcgowan.cf.webcrawler.program.pdb
+C:\Users\jxm146\Documents\visual studio 2015\Projects\john.mcgowan.cf.webcrawler\john.mcgowan.cf.webcrawler.program\bin\Debug\HtmlAgilityPack.dll
+C:\Users\jxm146\Documents\visual studio 2015\Projects\john.mcgowan.cf.webcrawler\john.mcgowan.cf.webcrawler.program\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\jxm146\Documents\visual studio 2015\Projects\john.mcgowan.cf.webcrawler\john.mcgowan.cf.webcrawler.program\bin\Debug\HtmlAgilityPack.xml
+C:\Users\jxm146\Documents\visual studio 2015\Projects\john.mcgowan.cf.webcrawler\john.mcgowan.cf.webcrawler.program\bin\Debug\john.mcgowan.cf.webcrawler.bo.dll
+C:\Users\jxm146\Documents\visual studio 2015\Projects\john.mcgowan.cf.webcrawler\john.mcgowan.cf.webcrawler.program\bin\Debug\john.mcgowan.cf.webcrawler.bo.pdb
